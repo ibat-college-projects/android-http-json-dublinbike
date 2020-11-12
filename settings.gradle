@@ -1,0 +1,2 @@
+rootProject.name='HttpJsonDemo1'
+include ':app'
